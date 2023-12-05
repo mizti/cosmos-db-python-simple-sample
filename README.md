@@ -33,7 +33,8 @@ python define-db-collection-index.py
 
 * define-db-collection-index.py
 
-    CosmosDBにDB, adventureworksというDB、productsというcollection、_id列とname列へのインデックス追加を行います
+    CosmosDBにDB, adventureworksというDB、productsというcollection、_id列とname列へのインデックス追加を行います。
+  　これ以降のスクリプトはこのスクリプトを実行した後で実行してください
 
 * input-data.py
 
